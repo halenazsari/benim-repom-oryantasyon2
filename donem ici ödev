@@ -1,0 +1,19 @@
+# Yapay Zeka ve Yazılım Mühendisliği Çalışmaları
+
+Bu depo, Fırat Üniversitesi Yazılım Mühendisliği Bölümü 2025-2026 Güz Dönemi final ödevi kapsamında oluşturulmuştur.
+
+## 📁 İçerik
+- **Sektörel_Analiz_Raporu.pdf:** Yapay zeka sektörü, kullanılan teknolojiler ve hedef şirket analizlerini içeren detaylı rapor.
+- **Iris_Classification_Project.py:** Makine öğrenmesi algoritmalarının temelini oluşturan, Iris veri seti üzerinde çalışan sınıflandırma örneği.
+
+## 🛠 Kullanılan Teknolojiler
+- **Dil:** Python 3.x
+- **Kütüphaneler:** Scikit-learn, Pandas, NumPy
+- **Alan:** Yapay Zeka & Makine Öğrenmesi
+
+## 🚀 Proje Hakkında
+Bu çalışmada, modern yapay zeka ekosisteminin teknik analizi yapılmış ve sektörün önde gelen şirketlerinin vizyonları incelenmiştir. Ayrıca, temel bir karar ağacı (Decision Tree) modeli kullanılarak basit bir sınıflandırma algoritması hayata geçirilmiştir.
+
+---
+**Hazırlayan:** [Halenaz Sarı]  
+**Bölüm:** Fırat Üniversitesi - Yazılım Mühendisliği
